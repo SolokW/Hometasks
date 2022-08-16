@@ -1,0 +1,15 @@
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\bin\Debug\net6.0\Example3_even.exe
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\bin\Debug\net6.0\Example3_even.deps.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\bin\Debug\net6.0\Example3_even.runtimeconfig.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\bin\Debug\net6.0\Example3_even.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\bin\Debug\net6.0\Example3_even.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.csproj.AssemblyReference.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.AssemblyInfoInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.AssemblyInfo.cs
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.csproj.CoreCompileInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\refint\Example3_even.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\Example3_even.genruntimeconfig.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example3_even\obj\Debug\net6.0\ref\Example3_even.dll

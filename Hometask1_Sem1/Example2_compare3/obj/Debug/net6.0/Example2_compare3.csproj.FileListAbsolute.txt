@@ -1,0 +1,15 @@
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\bin\Debug\net6.0\Example2_compare3.exe
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\bin\Debug\net6.0\Example2_compare3.deps.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\bin\Debug\net6.0\Example2_compare3.runtimeconfig.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\bin\Debug\net6.0\Example2_compare3.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\bin\Debug\net6.0\Example2_compare3.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.csproj.AssemblyReference.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.AssemblyInfoInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.AssemblyInfo.cs
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.csproj.CoreCompileInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\refint\Example2_compare3.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\Example2_compare3.genruntimeconfig.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example2_compare3\obj\Debug\net6.0\ref\Example2_compare3.dll

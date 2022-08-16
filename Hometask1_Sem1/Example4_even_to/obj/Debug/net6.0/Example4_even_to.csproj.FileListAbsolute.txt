@@ -1,0 +1,15 @@
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.csproj.AssemblyReference.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.AssemblyInfoInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.AssemblyInfo.cs
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.csproj.CoreCompileInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\bin\Debug\net6.0\Example4_even_to.exe
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\bin\Debug\net6.0\Example4_even_to.deps.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\bin\Debug\net6.0\Example4_even_to.runtimeconfig.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\bin\Debug\net6.0\Example4_even_to.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\bin\Debug\net6.0\Example4_even_to.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\refint\Example4_even_to.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\Example4_even_to.genruntimeconfig.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask1_Sem1\Example4_even_to\obj\Debug\net6.0\ref\Example4_even_to.dll

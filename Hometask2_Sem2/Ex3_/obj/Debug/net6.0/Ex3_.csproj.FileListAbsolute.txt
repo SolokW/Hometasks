@@ -1,0 +1,15 @@
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.csproj.AssemblyReference.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.AssemblyInfoInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.AssemblyInfo.cs
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.csproj.CoreCompileInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\bin\Debug\net6.0\Ex3_.exe
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\bin\Debug\net6.0\Ex3_.deps.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\bin\Debug\net6.0\Ex3_.runtimeconfig.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\bin\Debug\net6.0\Ex3_.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\bin\Debug\net6.0\Ex3_.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\refint\Ex3_.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\Ex3_.genruntimeconfig.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Hometasks\Hometask2_Sem2\Ex3_\obj\Debug\net6.0\ref\Ex3_.dll
